@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/S0NUKUMAR/">
   <img align="left" alt="Sonu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/S0NUKUMARSINGH">
-  <img align="left" alt="Sonu's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" /> 
-</a>
+
 
 ![](https://komarev.com/ghpvc/?username=S0NUKUMAR)
 
@@ -30,9 +28,3 @@ Hi, I'm <b style="color: #3498db;">Sonu Kumar</b>, a passionate self-taught Full
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0nukumar&show_icons=true&locale=en&layout=compact" alt="s0nukumar" style="width: 500px;"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=S0NUKUMAR&show_icons=true&locale=en" alt="s0nukumar" style="width: 500px;"/>
-</p>
-
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s0nukumar&" alt="s0nukumar" style="width: 500px;"/></p>
